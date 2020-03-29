@@ -1,0 +1,12 @@
+html,
+body {
+	background-color: gray;
+}
+
+.ella {
+	background-attachment: fixed;
+}
+
+.ella-no-era-asi {
+	color: pink;
+}
